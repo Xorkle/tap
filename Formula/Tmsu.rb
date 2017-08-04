@@ -8,7 +8,6 @@ class Tmsu < Formula
   url "https://github.com/oniony/TMSU.git",
       :revision => "442862c2413d923cdfaa236e8f80c07ea8df900b"
 
-  head "https://github.com/oniony/TMSU.git"
 
   depends_on "go" => :build
 
